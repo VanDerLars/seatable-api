@@ -1,7 +1,7 @@
 {
-  "name": "@alts-aliases/seatable-api",
+  "name": "@alts-aliases/seatable-api-extended",
   "version": "0.0.0",
-  "description": "Third party seatable interface library, powered by Demo Macro.",
+  "description": "Third party seatable interface library, powered by Demo Macro & VanDerLars.",
   "private": true,
   "scripts": {
     "build": "pnpm -r prepack",
